@@ -16,7 +16,7 @@ function setup() {
 
 function draw() {
     /* Color del Mapa */
-  background(45, 22, 156, 0.82);
+  background(52);
 
 	/* Maneja Todo */
   handleKeys();
